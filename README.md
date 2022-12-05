@@ -1,4 +1,4 @@
-# 📖 últimas entradas de mi blog
+# 📖 Últimas entradas de mi blog
 
 <!-- DEVTO-RETRONAUTA:START -->
 
