@@ -1,5 +1,4 @@
 # 📖 Últimas entradas de mi blog
 
-<!-- DEVTO-RETRONAUTA:START -->
-
-<!-- DEVTO-RETRONAUTA:END -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
