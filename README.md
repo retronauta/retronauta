@@ -1,14 +1,21 @@
-### ¡Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+<!-- ### ¡Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> -->
 
+<h1 align="center">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">, Soy Lino</h1>
+<h3 align="center">Fullstack developer</h3>
 
 [![Twitter: retronauta42](https://img.shields.io/twitter/follow/retronauta42?style=social)](https://twitter.com/retronauta42)
 [![Linkedin: linomattos](https://img.shields.io/badge/-linomattos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/linomattos/)](https://www.linkedin.com/in/linomattos/)
 [![GitHub linomattos](https://img.shields.io/github/followers/linomattos?label=follow&style=social)](https://github.com/linomattos)
 
-| <a href="https://github.com/linomattos/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=linomattos&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/linomattos/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linomattos&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+- 🔭 Actualmente trabajando en: **Proyectos personales**
 
-### Tecnologías y herramientas
+- 🌱 Actualmente aprendiendo **Solidity**
+
+- 📝 Escribo regularmente en: [https://dev.to/retronauta](https://dev.to/retronauta)
+
+- 📫 Me puedes contactar en: [@retronauta42](https://twitter.com/retronauta42) y **linomattos7@gmail.com**
+
+## Tecnologías y herramientas
 
 <p align="left">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/51467595/205905599-3f5ac496-a516-4c55-8871-d39aa8ec9990.svg" alt="css3" width="40" height="40"/> </a>
@@ -20,9 +27,6 @@
  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/51467595/205904100-3fe6f9a4-8d37-4f5c-9754-cf5e9cc404c5.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/51467595/205904099-a3a81f69-af6d-4bb0-8441-58e5483818ae.svg" alt="react" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/51467595/205904106-41372da9-1563-4e2f-a68d-bd96bc2b6112.svg" alt="react" width="40" height="40"/> </a> <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/51467595/205904107-29f1516a-bb22-40b1-8608-6b90cca7d53c.svg" alt="react" width="40" height="40"/> </a>
  <a href="https://www.vim.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/51467595/205904113-844c2b86-3fe3-444b-a803-5ea656672464.svg" alt="react" width="40" height="40"/> </a></p>
 
-
-
-
 # 📖 Últimas entradas de mi blog
 
 <!-- BLOG-POST-LIST:START -->
@@ -33,3 +37,6 @@
 - [¿Como convertir un objeto en query strings?](https://dev.to/retronauta/como-convertir-un-objeto-en-query-strings-44dg)
 <!-- BLOG-POST-LIST:END -->
 
+
+| <a href="https://github.com/linomattos/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=linomattos&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/linomattos/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linomattos&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
