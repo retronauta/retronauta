@@ -10,19 +10,16 @@
 
 ### Tecnologías y herramientas
 
-<img align="left" alt="Python" height ="42px" src="https://user-images.githubusercontent.com/51467595/205788610-25d46a1c-0bd2-4a25-b2d2-6c17fd18fe5c.svg"> <img align="left" alt="Android" height ="42px" src="https://user-images.githubusercontent.com/51467595/205788591-1e5d42db-0cde-414e-9397-a3a71423155a.svg"><img align="left" alt="Kotlin" height ="42px" src="https://user-images.githubusercontent.com/51467595/205788559-a52b190c-a066-4e7e-9ae4-c6a00f6db4b2.svg"><img align="left" src="https://user-images.githubusercontent.com/51467595/205788625-52698c3e-bed0-477b-a764-8161d9fef8cf.svg" alt="firebase" height ="42px"/><img align="left" src="https://user-images.githubusercontent.com/51467595/205788639-5080d796-2d2a-45b4-bdba-ab0fa4aba2b7.svg" alt="firebase" height ="42px"/>
+<p align="left">
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/51467595/205905599-3f5ac496-a516-4c55-8871-d39aa8ec9990.svg" alt="css3" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/51467595/205904094-c4970a07-a0f2-4bad-9def-8f6d73105525.svg" alt="elixir" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/51467595/205904104-088a32f1-175a-4534-b69f-5a2a6dbe01a2.svg" alt="express" width="40" height="40"/> </a>
+ <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/51467595/205904073-1205a42f-412c-40fd-bad7-1e1680b95ec0.svg" alt="git" width="40" height="40"/> </a>
+ <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/51467595/205904103-fa784601-c222-4210-9ab8-acac5f44bb2f.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/51467595/205904109-5b890504-b3fe-456b-b5a8-6aa787f91504.svg" alt="javascript" width="40" height="40"/> </a>
+ <a href="https://reactjs.org" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/51467595/205904096-cda6fc2b-09b1-4e6f-9cf5-e406dc328073.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/51467595/205904112-9e692133-7ded-41f9-898a-ecb60721c480.svg" alt="postgresql" width="40" height="40"/> </a>
+ <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/51467595/205904100-3fe6f9a4-8d37-4f5c-9754-cf5e9cc404c5.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/51467595/205904099-a3a81f69-af6d-4bb0-8441-58e5483818ae.svg" alt="react" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/51467595/205904106-41372da9-1563-4e2f-a68d-bd96bc2b6112.svg" alt="react" width="40" height="40"/> </a> <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/51467595/205904107-29f1516a-bb22-40b1-8608-6b90cca7d53c.svg" alt="react" width="40" height="40"/> </a>
+ <a href="https://www.vim.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/51467595/205904113-844c2b86-3fe3-444b-a803-5ea656672464.svg" alt="react" width="40" height="40"/> </a></p>
 
-<img align="left" src="https://user-images.githubusercontent.com/51467595/205788639-5080d796-2d2a-45b4-bdba-ab0fa4aba2b7.svg" alt="firebase" height ="42px"/>
-
-<img align="left" src="https://user-images.githubusercontent.com/51467595/205788639-5080d796-2d2a-45b4-bdba-ab0fa4aba2b7.svg" alt="firebase" height ="42px"/>
-
-<img align="left" src="https://user-images.githubusercontent.com/51467595/205788639-5080d796-2d2a-45b4-bdba-ab0fa4aba2b7.svg" alt="firebase" height ="42px"/>
-
-<img align="left" src="https://user-images.githubusercontent.com/51467595/205788639-5080d796-2d2a-45b4-bdba-ab0fa4aba2b7.svg" alt="firebase" height ="42px"/>
-
-<img align="left" src="https://user-images.githubusercontent.com/51467595/205788639-5080d796-2d2a-45b4-bdba-ab0fa4aba2b7.svg" alt="firebase" height ="42px"/>
-
-<img align="left" src="https://user-images.githubusercontent.com/51467595/205788639-5080d796-2d2a-45b4-bdba-ab0fa4aba2b7.svg" alt="firebase" height ="42px"/>
 
 
 
