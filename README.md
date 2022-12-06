@@ -3,7 +3,7 @@
 <h1 align="center">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">, Soy Lino</h1>
 <h3 align="center">Fullstack developer</h3>
 
-<p>
+<p align="center">
 
 [![Twitter: retronauta42](https://img.shields.io/twitter/follow/retronauta42?style=social)](https://twitter.com/retronauta42)
 [![Linkedin: linomattos](https://img.shields.io/badge/-linomattos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/linomattos/)](https://www.linkedin.com/in/linomattos/)
