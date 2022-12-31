@@ -36,11 +36,11 @@
 ## 📖 Últimas entradas de mi blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Cómo controlar tus gastos en aws](https://dev.to/retronauta/como-controlar-tus-gastos-en-aws-1ape)
 - [Cómo instalar y usar distintas versiones de node en ubuntu y derivados.](https://dev.to/retronauta/como-instalar-y-usar-distintas-versiones-de-node-en-ubuntu-y-derivados-3pdm)
 - [Tip rápido: Cambiar el puerto en React](https://dev.to/retronauta/tip-rapido-cambiar-el-puerto-en-react-2jhl)
 - [¿Como convertir un objeto en query strings?](https://dev.to/retronauta/como-convertir-un-objeto-en-query-strings-44dg)
 - [Cómo crear un array de x longitud relleno de 0s en javascript.](https://dev.to/retronauta/como-crear-un-array-de-x-longitud-relleno-de-0s-en-javascript-4i9n)
-- [¿Cómo podemos mantener directorios vacíos en git/github?](https://dev.to/retronauta/como-podemos-mantener-directorios-vacios-en-gitgithub-119l)
 <!-- BLOG-POST-LIST:END -->
 
 ## ⚡ Github Stats
