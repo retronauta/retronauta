@@ -36,11 +36,11 @@
 ## 📖 Últimas entradas de mi blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Libro The Rust Programming Language 🦀️ I. Getting Started](https://dev.to/retronauta/libro-the-rust-programming-language-i-getting-started-4n9m)
 - [Aprendiendo Rust 🦀️ con el libro: The Rust Programming Language.](https://dev.to/retronauta/aprendiendo-rust-con-el-libro-the-rust-programming-language-1mhn)
 - [Cómo controlar tus gastos en aws](https://dev.to/retronauta/como-controlar-tus-gastos-en-aws-1ape)
 - [Cómo instalar y usar distintas versiones de node en ubuntu y derivados.](https://dev.to/retronauta/como-instalar-y-usar-distintas-versiones-de-node-en-ubuntu-y-derivados-3pdm)
 - [Tip rápido: Cambiar el puerto en React](https://dev.to/retronauta/tip-rapido-cambiar-el-puerto-en-react-2jhl)
-- [¿Como convertir un objeto en query strings?](https://dev.to/retronauta/como-convertir-un-objeto-en-query-strings-44dg)
 <!-- BLOG-POST-LIST:END -->
 
 ## ⚡ Github Stats
