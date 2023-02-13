@@ -7,11 +7,11 @@
 
 [![Twitter: retronauta42](https://img.shields.io/twitter/follow/retronauta42?style=social)](https://twitter.com/retronauta42)
 [![Linkedin: linomattos](https://img.shields.io/badge/-linomattos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/linomattos/)](https://www.linkedin.com/in/linomattos/)
-[![GitHub linomattos](https://img.shields.io/github/followers/linomattos?label=follow&style=social)](https://github.com/linomattos)
+[![GitHub retronauta](https://img.shields.io/github/followers/retronauta?label=follow&style=social)](https://github.com/retronauta)
 
-- 🔭 Actualmente trabajando en: La versión final de [NFT solidario](https://github.com/linomattos/nft-solidario)
+<!-- - 🔭 Actualmente trabajando en: La versión final de [NFT solidario](https://github.com/linomattos/nft-solidario) -->
 
-- 🌱 Actualmente aprendiendo: **Typescript**
+- 🌱 Actualmente aprendiendo: **Rust**
 
 - 📝 Escribo regularmente en: [https://dev.to/retronauta](https://dev.to/retronauta)
 
@@ -45,5 +45,5 @@
 
 ## ⚡ Github Stats
 
-| <a href="https://github.com/linomattos/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=linomattos&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/linomattos/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linomattos&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/retronauta/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=retronauta&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/retronauta/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=retronauta&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
