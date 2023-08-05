@@ -39,8 +39,8 @@
 - [Generando archivos .gitignore muy útiles para nuestros proyectos](https://dev.to/retronauta/generando-archivos-gitignore-muy-utiles-para-nuestros-proyectos-e1a)
 - [Cómo comparar strings en Solidity.](https://dev.to/retronauta/como-comparar-strings-en-solidity-1093)
 - [¿Qué son los argumentos de la línea de comandos y para qué nos sirven en nodejs?](https://dev.to/retronauta/que-son-los-argumentos-de-la-linea-de-comandos-y-para-que-nos-sirven-en-nodejs-2n13)
-- [Aprendiendo Rust 🦀️ II. Programming a guessing game](https://dev.to/retronauta/libro-the-rust-programming-language-ii-programming-a-guessing-game-8ni)
-- [Aprendiendo Rust 🦀️ I. Getting Started](https://dev.to/retronauta/libro-the-rust-programming-language-i-getting-started-4n9m)
+- [Cómo controlar tus gastos en aws](https://dev.to/retronauta/como-controlar-tus-gastos-en-aws-1ape)
+- [Cómo instalar y usar distintas versiones de node en ubuntu y derivados.](https://dev.to/retronauta/como-instalar-y-usar-distintas-versiones-de-node-en-ubuntu-y-derivados-3pdm)
 <!-- BLOG-POST-LIST:END -->
 
 ## ⚡ Github Stats
