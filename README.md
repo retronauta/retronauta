@@ -11,7 +11,7 @@
 
 <!-- - 🔭 Actualmente trabajando en: La versión final de [NFT solidario](https://github.com/linomattos/nft-solidario) -->
 
-- 🌱 Actualmente aprendiendo: Mejorando mis skills técnica con **fullStackOpen**
+- 🌱 Actualmente aprendiendo: Mejorando mis skills técnicas con **fullStackOpen**
 
 - 📝 Escribo regularmente en: [https://dev.to/retronauta](https://dev.to/retronauta)
 
